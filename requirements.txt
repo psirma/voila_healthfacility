@@ -2,4 +2,4 @@ folium
 flask
 pandas
 voila-gridstack-0.2.0
-viola-0.3.8
+viola
