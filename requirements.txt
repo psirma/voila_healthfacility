@@ -8,7 +8,7 @@ json5
 jupyter
 jupyter-console
 jupyter-core
-jupyter-extension
+jupyter_contrib_nbextensions
 jupyter-server
 jupyterlab
 jupyterlab-pygments
