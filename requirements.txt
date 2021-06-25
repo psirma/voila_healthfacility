@@ -1,8 +1,5 @@
 folium==0.11.0
 glob2==0.7
-gmpy2==2.0.8
-html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 ijson==2.6.1
 imageio @ file:///tmp/build/80754af9/imageio_1594161405741/work
 imagesize==1.2.0
