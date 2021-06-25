@@ -1,6 +1,4 @@
 folium==0.11.0
-geopandas==0.8.1
-gevent @ file:///opt/concourse/worker/volumes/live/78aec834-bbf0-47a7-799f-96dd2cf589ab/volume/gevent_1593009579767/work
 glob2==0.7
 gmpy2==2.0.8
 html5lib @ file:///tmp/build/80754af9/html5lib_1593446221756/work
