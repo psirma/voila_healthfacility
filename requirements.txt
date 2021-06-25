@@ -1,5 +1,5 @@
 folium
-glob2=
+glob2
 ipykernel
 ipython-genutils
 ipywidgets
