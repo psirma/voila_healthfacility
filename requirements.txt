@@ -48,9 +48,6 @@ pycosat
 pycurl
 pyflakes
 Pygments
-pygogo
-pymongo
-pyodbc
 pyproj
 pyrsistent
 pytest
