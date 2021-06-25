@@ -99,8 +99,3 @@ webencodings
 Werkzeug
 widgetsnbextension
 wrapt
-xlrd
-XlsxWriter
-xlwings
-xlwt
-xmltodict
