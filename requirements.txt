@@ -6,9 +6,10 @@ ipywidgets
 Jinja2
 json5
 jupyter
+jupyterlab-heroku
 jupyter-console
 jupyter-core
-jupyter_contrib_nbextensions
+jupyter_contrib_nbextensions && jupyter contrib nbextension 
 jupyter-server
 jupyterlab
 jupyterlab-pygments
